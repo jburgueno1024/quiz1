@@ -53,8 +53,8 @@ int main()
     cout << "\nTotal Time: " << convTotal;
     cout << "\nProductive Time: " << convProd;
     cout << "\nLeisure Time: " << convLeisure;
-    cout << "\nOther Time: " << convOther;
+    cout << "\nLeftover Time: " << convOther;
     cout << "\n----";
-    cout << "\nProductive Percentage: " << to_string(percentProd);
+    cout << "\nProductive Percentage: " << percentProd << "%";
     return 0;
 }

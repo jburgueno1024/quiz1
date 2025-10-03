@@ -1,0 +1,14 @@
+==TODAY==
+Sleep: 4hrs 30min
+Class: 8hrs 0min
+Commuting: 2hrs 30min
+Work: 120
+Food: 1hrs 30min
+Hobby: 4hrs 0min
+----
+Total Time: 22hrs 30min
+Productive Time: 12hrs 30min
+Leisure Time: 5hrs 30min
+Leftover Time: 1hrs 30min
+----
+Productive Percentage: 52.0833%
